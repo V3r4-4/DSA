@@ -1,6 +1,6 @@
 # Learning Journey in Data Structure and Algorithms
 Hello There👋, are you a beginner to data structures and algorithms? Well, you're in luck. This repository provides all information you'll need from easy definitions to complex hands-on. It helps you understand the Fundamentals of DSA as a complete beginner.
-
+<BR>
 #### Topics covered:
 * Introduction to DSA
 * Fundamentals:
@@ -22,7 +22,7 @@ Hello There👋, are you a beginner to data structures and algorithms? Well, you
 Topics Covered Inspired by Geek for Geeks in: `https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/`
 <BR>
 
-#### Here's the repo Structure:
+#### Here's the repository Structure:
 <BR>
 
 ```
@@ -65,8 +65,8 @@ DSA/
 * Visual Studio Editor
 * Study Guide From Geek for Geek, Classes
 * Kali Linux
-* 
+  
 <BR>
 
-#### Diclaimer!!!
+#### Disclaimer!!!
 Work in Progress.
