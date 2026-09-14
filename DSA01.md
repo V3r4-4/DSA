@@ -94,6 +94,7 @@ Why we don't use natural languages in creating instructions:
 #### Step 3: Coding (Implementation)
 Coding is transforming design into a certain programming language.
 <BR>
+<BR>
 
 ### Differences between General Problem-Solving and Computational Problem-Solving .
 <div style="align:center">
