@@ -1,8 +1,10 @@
 # Introduction to Data Structures and Algorithms
 <BR>
+
 Data is any form that is stored in a computer (meaning data exists in many forms like text, numbers, shapes etc).
 Computers cannot work without data.
-To transform data(raw information) into meaningful results, the computer carries out these tasks:
+#### To transform data(raw information) into meaningful results, the computer carries out these tasks:
+```
   * Input - Input devices
   * Storing - Memory
     ├── Main - Stores data temporarily
@@ -10,11 +12,14 @@ To transform data(raw information) into meaningful results, the computer carries
   * Processing - Processor
   * Output - Output devices
   * Communication - Network Interface Card (NIC)
+```
 <BR>
 Computers cannot execute those tasks without step by step instructions. Programs are step by step instructions that tell a computer what to do.
 Programs consists of:
+``` text
   ├──Data
   └──Instructions
+```
 To run algorithms effectively, programs rely on Data Structures.
 Data Structures are concerned with the main memory. They help organize and store data.
 
@@ -34,8 +39,10 @@ Once the data is clearly structured, the focus shifts from how information is st
 
 * Execution Plan/Take Action
     * Develop a solution
+<BR>
 
 While General problem solving requires human-intuition, context and flexible reasoning, for computers, solutions must be translated to unambiguous steps that a machine can execute without an error.
+<BR>
 
 ### Problem solving from Computational view:
 #### Step 1: Analysis (Understand the Problem)
@@ -58,6 +65,8 @@ Solve Simple Interest Design:
 4. Write Interest
 5. Store
    
+<BR>
+
 An algorithm is precise(steps are clear) and sequential(step by step)
 
 #### Algorithms are precise sequences carried out by a computer in finite time.
@@ -69,15 +78,14 @@ An algorithm is precise(steps are clear) and sequential(step by step)
 * Computable
 * Finite - has a beginning and end.
 * Independent - Any platforms or computers can be used
+  
 <BR>
 
 Why we don't use natural languages in creating instructions:
 * Ambiguous
 * Bulky - So many words are used
 * Natural language keeps changing
-* Lack of stanence
 
-<BR>
 <BR>
 
 #### Step 3: Coding (Implementation)
@@ -88,6 +96,7 @@ Coding is transforming design into a certain programming language.
 
 
 ### Factors Affecting the Performance of a Computers
+```text
 #### * Hardware
 |    ├──Processor
 |    └──I/O devices
@@ -98,6 +107,8 @@ Coding is transforming design into a certain programming language.
 |    └──App/System that you created
 |         ├──Programming Language
 |         └──Data structures
+```
+<BR>
 
 "When creating critical systems, it is advisable to use low-level languages"
 Why is it important to use low-level languages for critical systems?
@@ -105,11 +116,11 @@ Why is it important to use low-level languages for critical systems?
 * Less memory used
 
 <BR>
-<BR>
 
 ### Common Algorithms
+``` text
 Algorithms
-├── intrisic (Has a backbone)
+├── intrinsic 
  │    ├── Numeric (e.g., Floating, Integral)
  │    └── Non-numeric(e.g., Char, Boolean)
  └── Data Structures (No backbone)
@@ -118,9 +129,7 @@ Algorithms
  |              └── Restricted (e.g., Queue, Stack)
  |              └── Unrestricted (e.g., Arrays, Lists, Linked Lists)
  |         ├── Non-linear (e.g., Tree, HashTable, Map)
-
-<BR>
-<BR>
+```
 
 
 
