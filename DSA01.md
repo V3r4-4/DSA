@@ -93,8 +93,10 @@ Why we don't use natural languages in creating instructions:
 Coding is transforming design into a certain programming language.
 <BR>
 
-### Differences between Problem-Solving and Problem-Solving from Computational View.
-<img src="assets/Diff.png" alt="Differences between Problem-Solving and Computational Problem-Solving" width="300" />
+### Differences between General Problem-Solving and Computational Problem-Solving .
+<div style="align:center">
+<img src="assets/Diff.png" alt="Differences between General Problem-Solving and Computational Problem-Solving" width="50" />
+</div>
 
 <BR>
 
