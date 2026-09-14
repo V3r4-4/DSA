@@ -104,12 +104,15 @@ Coding is transforming design into a certain programming language.
 <BR>
 
 ### Factors Affecting the Performance of a Computers
-```text
-   Hardware
+
+* Hardware
+```
 |    ├──Processor
 |    └──I/O devices
 |    └──Channels
-   Software
+```
+* Software
+```
 |    ├──Operating System
 |    └──Utility Software
 |    └──App/System that you created
