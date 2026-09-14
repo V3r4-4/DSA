@@ -90,6 +90,7 @@ Why we don't use natural languages in creating instructions:
 * Bulky - So many words are used
 * Natural language keeps changing
 <BR>
+
 #### Step 3: Coding (Implementation)
 Coding is transforming design into a certain programming language.
 <BR>
