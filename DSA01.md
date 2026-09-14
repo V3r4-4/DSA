@@ -50,6 +50,7 @@ While General problem solving requires human-intuition, context and flexible rea
 
 #### Step 1: Analysis (Understand the Problem)
 Do analysis to get the requirements(system requirements).
+<BR>
 Example of Problem: Solve Simple Interest
 * What is it? amount, time, rate
 * input: amount, time, rate
@@ -61,6 +62,7 @@ Example of Problem: Solve Simple Interest
 
 #### Step 2: Design(Plan)
 When you State the design clearly, that's an algorithm.
+<BR>
 Solve Simple Interest Design:
 1. Start
 2. Read amount, time, rate
