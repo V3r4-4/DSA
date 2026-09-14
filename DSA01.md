@@ -16,9 +16,10 @@ Computers cannot work without data.
 <BR>
 Computers cannot execute those tasks without step by step instructions. Programs are step by step instructions that tell a computer what to do.
 Programs consists of:
-``` text
-  ├──Data
-  └──Instructions
+
+```
+|   ├──Data
+|   └──Instructions
 ```
 To run algorithms effectively, programs rely on Data Structures.
 Data Structures are concerned with the main memory. They help organize and store data.
@@ -44,7 +45,8 @@ Once the data is clearly structured, the focus shifts from how information is st
 While General problem solving requires human-intuition, context and flexible reasoning, for computers, solutions must be translated to unambiguous steps that a machine can execute without an error.
 <BR>
 
-### Problem solving from Computational view:
+### Computational Problem-Solving:
+
 #### Step 1: Analysis (Understand the Problem)
 Do analysis to get the requirements(system requirements).
 Example of Problem: Solve Simple Interest
@@ -68,7 +70,6 @@ Solve Simple Interest Design:
 <BR>
 
 An algorithm is precise(steps are clear) and sequential(step by step)
-
 #### Algorithms are precise sequences carried out by a computer in finite time.
 <BR>
 
@@ -90,10 +91,12 @@ Why we don't use natural languages in creating instructions:
 
 #### Step 3: Coding (Implementation)
 Coding is transforming design into a certain programming language.
+<BR>
 
 ### Differences between Problem-Solving and Problem-Solving from Computational View.
+<img src="assets/Diff.png" alt="Differences between Problem-Solving and Computational Problem-Solving" width="300" />
 
-
+<BR>
 
 ### Factors Affecting the Performance of a Computers
 ```text
@@ -109,12 +112,7 @@ Coding is transforming design into a certain programming language.
 |         └──Data structures
 ```
 <BR>
-
-"When creating critical systems, it is advisable to use low-level languages"
-Why is it important to use low-level languages for critical systems?
-* Translation is fast
-* Less memory used
-
+Using low-level languages for critical systems is important because they provide direct hardware control, maximum execution speed, and precise memory management without the overhead of abstraction layers
 <BR>
 
 ### Common Algorithms
