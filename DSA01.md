@@ -24,8 +24,7 @@ Programs consists of:
 ```
 To run algorithms effectively, programs rely on Data Structures.
 Data Structures are concerned with the main memory. They help organize and store data.
-
-#### Data Structures are program constructs that are there to help store and structure data.
+** Data Structures are program constructs that are there to help store and structure data.**
 Once the data is clearly structured, the focus shifts from how information is stored to how decisions are made. 
 <BR>
 
