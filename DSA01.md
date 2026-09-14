@@ -95,18 +95,18 @@ Coding is transforming design into a certain programming language.
 
 ### Differences between General Problem-Solving and Computational Problem-Solving .
 <div style="align:center">
-<img src="assets/Diff.png" alt="Differences between General Problem-Solving and Computational Problem-Solving" width="50" />
+<img src="assets/Diff.png" alt="Differences between General Problem-Solving and Computational Problem-Solving" width="600" height="600" />
 </div>
 
 <BR>
 
 ### Factors Affecting the Performance of a Computers
 ```text
-#### * Hardware
+   Hardware
 |    ├──Processor
 |    └──I/O devices
 |    └──Channels
-#### * Software
+   Software
 |    ├──Operating System
 |    └──Utility Software
 |    └──App/System that you created
