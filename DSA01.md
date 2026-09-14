@@ -4,15 +4,16 @@
 Data is any form that is stored in a computer (meaning data exists in many forms like text, numbers, shapes etc).
 Computers cannot work without data.
 #### To transform data(raw information) into meaningful results, the computer carries out these tasks:
-```
+
   * Input - Input devices
   * Storing - Memory
+    ```
     ├── Main - Stores data temporarily
     └──Secondary - Stores data consistently
+    ```
   * Processing - Processor
   * Output - Output devices
   * Communication - Network Interface Card (NIC)
-```
 <BR>
 Computers cannot execute those tasks without step by step instructions. Programs are step by step instructions that tell a computer what to do.
 Programs consists of:
