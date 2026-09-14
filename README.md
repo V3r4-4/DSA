@@ -19,7 +19,7 @@ For hands-on: Check out my LeetCode: <a href="https://leetcode.com/u/YayNe2cX3Y/
 <BR>
 
 #### Tools and Resources Used:
-* Class Notes - I'll upload self made notes
+* Class Notes and Self made notes
 * LeetCode for Hands-on
   
 <BR>
