@@ -103,7 +103,7 @@ Coding is transforming design into a certain programming language.
 
 <BR>
 
-### Factors Affecting the Performance of a Computers
+### Factors Affecting the Performance of Computers
 
 * Hardware
 ```
