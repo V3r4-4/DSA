@@ -24,7 +24,7 @@ Programs consists of:
 ```
 To run algorithms effectively, programs rely on Data Structures.
 Data Structures are concerned with the main memory. They help organize and store data.
-** Data Structures are program constructs that are there to help store and structure data.**
+**Data Structures are program constructs that are there to help store and structure data.**
 Once the data is clearly structured, the focus shifts from how information is stored to how decisions are made. 
 <BR>
 
@@ -72,7 +72,7 @@ Solve Simple Interest Design:
 <BR>
 
 An algorithm is precise(steps are clear) and sequential(step by step)
-#### Algorithms are precise sequences carried out by a computer in finite time.
+**Algorithms are precise sequences carried out by a computer in finite time.**
 <BR>
 
 ### Characteristics of Algorithms
@@ -84,7 +84,7 @@ An algorithm is precise(steps are clear) and sequential(step by step)
   
 <BR>
 
-Why we don't use natural languages in creating instructions:
+**Why we don't use natural languages in creating instructions:**
 * Ambiguous
 * Bulky - So many words are used
 * Natural language keeps changing
@@ -119,7 +119,8 @@ Coding is transforming design into a certain programming language.
 |         └──Data structures
 ```
 <BR>
-Using low-level languages for critical systems is important because they provide direct hardware control, maximum execution speed, and precise memory management without the overhead of abstraction layers
+
+**Using low-level languages for critical systems is important because they provide direct hardware control, maximum execution speed, and precise memory management without the overhead of abstraction layers.**
 <BR>
 
 ### Common Algorithms
